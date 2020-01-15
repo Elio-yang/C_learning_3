@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="l_3_1.c">
+    <ClCompile Include="Prime number.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional expr.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
