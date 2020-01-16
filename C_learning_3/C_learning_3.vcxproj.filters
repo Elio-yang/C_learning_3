@@ -27,5 +27,8 @@
     <ClCompile Include="complex_break_continue_area_rectangle.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="switch_animals.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

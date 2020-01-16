@@ -20,7 +20,7 @@ int main()
 			{
 				printf("No valid value were entered!\n");
 				printf("Please enter the width of the rectangle:\n");
-				continue;//back to the nearst while loop
+				continue;//back to the while loop which contains it
 			}
 			else
 			{
