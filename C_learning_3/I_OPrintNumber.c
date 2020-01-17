@@ -3,7 +3,7 @@ degisn a program which gives singel number.
 e.g.:
 Input:1245
 Output:1 2 4 5
-to output 1245 we should firstly print 124 and
+to print we should firstly print 124 and
 then 5. The second step is easy to achieve through
 PrintDigit(1245%10),so we can let value=N/10,and 
 then int Value%10. By this way we can get the number.
