@@ -7,7 +7,6 @@ int main()
 	printf("Give me an letter of alphabet and I will give");
 	printf("an animal name\n belonging with the letter.\n");
 	printf("Please type an letter(# to end)\n");
-
 	while ((ch = getchar()) != '#')
 	{
 		if (ch == '\n')
